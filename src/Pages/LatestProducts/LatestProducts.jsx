@@ -16,7 +16,7 @@ const LatestProducts = ({ LatestProductsPromise }) => {
             Popular Winter Care Services
           </h1>
           <p className="text-gray-700">
-            Explore All Winter Care Services in service page.
+            Explore All deals here
           </p>
         </div>
 
